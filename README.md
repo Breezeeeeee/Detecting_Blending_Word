@@ -11,6 +11,7 @@ File guides:
 	NGram2.py: This is the file to find minimum 2-Gram distance for all tokens in candidates
 	NGram3.py: This is the file to find minimum 3-Gram distance for all tokens in candidates
 	JARO.py: This is the file to find maximum jaro-winkler similarity for all tokens in candidates.
+	showresult.ipynb: This is the file to show the processed result by plot and bar chart
 
 The data that generated in this project are store in data floder:
 	GEDTotal: This is the file that contains: token, maximum global edit distance, match word in dictionary for all tokens in candidates
